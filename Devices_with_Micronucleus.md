@@ -7,7 +7,7 @@ Please note that Micronucleus is a completely independent project and is not afi
 
 ## ATtiny85 ##
 
-- [Digispark](http://digistump.com/products/1) by [Digistump](digistump.com) - Widely spread tiny USB Developmentboard with Arduino-Support.
+- [Digispark](http://digistump.com/products/1) by [Digistump](http://digistump.com) - Widely spread tiny USB Developmentboard with Arduino-Support.
 
 - [Olimexino 85](https://www.olimex.com/Products/Duino/AVR/open-source-hardware) by [Olimex](https://www.olimex.com) - Several different devboards fully assembled or as kits with USB interface
 
@@ -37,7 +37,7 @@ Please note that Micronucleus is a completely independent project and is not afi
 
 ## ATtiny 167 ##
 
-- [Digispark Pro](http://digistump.com/products/109) by [Digistump](digistump.com) - Digispark successor with more I/O and memory
+- [Digispark Pro](http://digistump.com/products/109) by [Digistump](http://digistump.com) - Digispark successor with more I/O and memory
 
 ## ATtiny 84 ##
 - [Shinewave](https://github.com/GGreenwood/Shinewave) by [Electric Exploits](http://electricexploits.net/) - USB mods for GameCube controllers
